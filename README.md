@@ -7,6 +7,6 @@ The only condition is the file should be present on the desktop of macbook for w
 
 This software will create a password protected zip file and when you will enter the password, only then the zip file will open.
 
-CLICK ON THE DOWNLOAD BUTTON TO DOWNLOAD AFTER CLICKING ON filemenu1.py.app 
+CLICK ON THE DOWNLOAD BUTTON TO DOWNLOAD AFTER CLICKING ON filemenu1.py.app.zip
 
 
