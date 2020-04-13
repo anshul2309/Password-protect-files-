@@ -7,6 +7,14 @@ The only condition is the file should be present on the desktop of macbook for w
 
 This software will create a password protected zip file and when you will enter the password, only then the zip file will open.
 
-CLICK ON THE DOWNLOAD BUTTON TO DOWNLOAD AFTER CLICKING ON filemenu1.py.app.zip
+
+I used tk inter module of pyhton along with the pynput module top open terminal and type everything for you.
+
+I used time.sleep so that if there is any delay, the software doesn't stop.
+
+
+
+CLICK ON THE DOWNLOAD BUTTON TO DOWNLOAD AFTER CLICKING ON filemenu1.py.app.zip, or just copy the code and install all pyhton libraries included and test the software. 
+
 
 
