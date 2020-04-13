@@ -22,7 +22,7 @@ I used time.sleep so that if there is any delay, the software doesn't stop.
 
 
 
-CLICK ON THE DOWNLOAD BUTTON TO DOWNLOAD AFTER CLICKING ON filemenu1.py.app.zip, or just copy the code and install all pyhton libraries included and test the software. 
+<B> CLICK ON THE DOWNLOAD BUTTON TO DOWNLOAD AFTER CLICKING ON filemenu1.py.app.zip, or just copy the code and install all pyhton libraries included and test the software. </B>
 
 
 
